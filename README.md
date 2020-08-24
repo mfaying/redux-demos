@@ -12,18 +12,16 @@ cnpm i
 npm run start
 ```
 
-示例
+## 示例
 
-编写你的第一个react页面
+[实现一个计数器](https://github.com/mfaying/redux-demos/tree/master/src/01)
 
-this.props
+[简单结合react的计数器](https://github.com/mfaying/redux-demos/tree/master/src/02)
 
-生命周期
+[combineReducers](https://github.com/mfaying/redux-demos/tree/master/src/03)
 
-this.state
+[react-redux](https://github.com/mfaying/redux-demos/tree/master/src/04)
 
-行间样式和 className
+[react-router-dom](https://github.com/mfaying/redux-demos/tree/master/src/05)
 
-子组件向父组件传递数据（通信）
-
-this.props.children
+[redux中间件](https://github.com/mfaying/redux-demos/tree/master/src/06)
