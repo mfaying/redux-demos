@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { Button } from "zent";
 
 import TodoList from "./components/TodoList.jsx";
 
@@ -7,6 +8,13 @@ class Todo extends Component {
     return (
       <div>
         <TodoList />
+        <Button
+          onClick={() => {
+            console.log("cc");
+          }}
+        >
+          cc
+        </Button>
       </div>
     );
   }

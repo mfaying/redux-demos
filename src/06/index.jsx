@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDom from "react-dom";
 import { Provider } from "react-redux";
+import "zent/css/index.css";
 
 import store from "./redux";
 import AppRouter from "./AppRouter.jsx";
